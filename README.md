@@ -15,9 +15,9 @@ A cleaned training (26,730 observations) and testing (11,457 observations) data 
 For more detailed results of our analysis and performance of our machine learning models, refer to the [report](https://github.com/sofialaval/Austin_Animal_Center/blob/main/ISYE7406_Final_Report.pdf) and [presentation](https://github.com/sofialaval/Austin_Animal_Center/blob/main/ISYE%207406%20Final%20Project%20Presentation.pdf)
 
 Here are some interesting findings: 
-- ![Animal Shelter Overall Stats](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/e2e3aa4b-7eed-47d3-8180-9d9ae522f574)
-- ![Screen Shot 2024-03-12 at 6 46 02 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/01bc223d-3ed9-4613-916a-69f7d312148f)
-- ![Screen Shot 2024-03-12 at 6 46 14 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/63c406d6-af9e-4919-b4b7-995deba22f73)
+![Animal Shelter Overall Stats](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/e2e3aa4b-7eed-47d3-8180-9d9ae522f574)
+![Screen Shot 2024-03-12 at 6 46 02 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/01bc223d-3ed9-4613-916a-69f7d312148f)
+![Screen Shot 2024-03-12 at 6 46 14 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/63c406d6-af9e-4919-b4b7-995deba22f73)
 
 Overall, we found that adoption was the most likely outcome for cats and dogs, with transfer being the second most likely outcome. Dogs are more likely to be returned to their owners compared to cats. This may be due to more dogs entering the shelter with a collar and identification tags. Cat owners may not be as likely to microchip or have a collar, especially if the cat is indoors. Another likely explanation is that there may not be many cats entering the shelter that are lost, as cats are more likely than dogs to find their way homes if they escape their house. 
 
