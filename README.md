@@ -21,5 +21,7 @@ Here are some interesting findings:
 
 Overall, we found that adoption was the most likely outcome for cats and dogs, with transfer being the second most likely outcome. Dogs are more likely to be returned to their owners compared to cats. This may be due to more dogs entering the shelter with a collar and identification tags. Cat owners may not be as likely to microchip or have a collar, especially if the cat is indoors. Another likely explanation is that there may not be many cats entering the shelter that are lost, as cats are more likely than dogs to find their way homes if they escape their house. 
 
-We recommend to identify these animals and dedicate more resources and time to expanding their social media presence and showcase them more often. XGBoost was the top performing model (compared to random forest and linear svc) with an accuracy score of .584. Improvements could be made to the model such as collecting more independent variables that affect animal outcomes. Examples include intake date, behavior, economic factors, etc. Including this could improve the accuracy and help better explain outcomes. 
+We recommend more resources and time alloted to the animals that are older and of a breed that is not popular amongs adopters. For example, personalized headshots and expanding their social media presence can help these animals get seen more. 
+
+XGBoost was the top performing model (compared to random forest and linear svc) with an accuracy score of .584. Improvements could be made to the model such as collecting more independent variables that affect animal outcomes. Examples include intake date, behavior, economic factors, etc. Including this could improve the accuracy and help better explain outcomes. 
 
