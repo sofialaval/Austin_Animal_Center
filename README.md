@@ -1,5 +1,5 @@
 ## Project Overview
-Kaggle hosted a [competition](https://www.kaggle.com/competitions/shelter-animal-outcomes) with the goal of improving the outcome (adopted, died, euthanized, returned to owner, transferred) for cats and dogs at the Austin Animal Center. Outcome is defined as the status of the animal at the time of leaving the shelter. 
+Kaggle hosted a [competition](https://www.kaggle.com/competitions/shelter-animal-outcomes) with the goal of analyzing the outcome (adopted, died, euthanized, returned to owner, transferred) for cats and dogs at the Austin Animal Center. Outcome is defined as the status of the animal at the time of leaving the shelter. 
 
 This project was for a data mining and statistical learning course intended to highlight the importance of data exploration, and my team chose this competition as our project. 
 
