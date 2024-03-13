@@ -10,10 +10,9 @@ The goal of this project was to answer the following questions:
 A cleaned training (26,730 observations) and testing (11,457 observations) data set are provided, with a random 70/30 split. The data was collected from October 2013 until March 2016. They can be downloaded [here](https://www.kaggle.com/competitions/shelter-animal-outcomes/data)
 
 ## Results 
-For more detailed results of our analysis and performance of our machine learning models, refer to the [report] and [presentation]
+For more detailed results of our analysis and performance of our machine learning models, refer to the [report](https://github.com/sofialaval/Austin_Animal_Center/blob/main/ISYE7406_Final_Report.pdf) and [presentation](https://github.com/sofialaval/Austin_Animal_Center/blob/main/ISYE%207406%20Final%20Project%20Presentation.pdf)
 Here are some interesting findings: 
 - ![Animal Shelter Overall Stats](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/e2e3aa4b-7eed-47d3-8180-9d9ae522f574)
-- ![Screen Shot 2024-03-12 at 6 45 21 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/e4d6d6b8-225e-444e-ac91-62264754f218)
 - ![Screen Shot 2024-03-12 at 6 46 02 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/01bc223d-3ed9-4613-916a-69f7d312148f)
 - ![Screen Shot 2024-03-12 at 6 46 14 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/63c406d6-af9e-4919-b4b7-995deba22f73)
 
