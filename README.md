@@ -17,7 +17,11 @@ For more detailed results of our analysis and performance of our machine learnin
 Here are some interesting findings: 
 ![Animal Shelter Overall Stats](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk/assets/159965979/e2e3aa4b-7eed-47d3-8180-9d9ae522f574)
 ![Screen Shot 2024-03-12 at 6 46 02 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/01bc223d-3ed9-4613-916a-69f7d312148f)
-![Screen Shot 2024-03-12 at 6 46 14 PM](https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/63c406d6-af9e-4919-b4b7-995deba22f73)
+<p align="center">
+  <img src=https://github.com/sofialaval/Austin_Animal_Center/assets/159965979/63c406d6-af9e-4919-b4b7-995deba22f73>
+</p>
+
+
 
 Overall, we found that adoption was the most likely outcome for cats and dogs, with transfer being the second most likely outcome. Dogs are more likely to be returned to their owners compared to cats. 
 
